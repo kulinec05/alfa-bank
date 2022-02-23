@@ -1,0 +1,37 @@
+
+
+.card-list {
+  width: 95vw;
+  padding-right: 5vw;
+  padding-left: 5vw;
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+}
+.like-b{
+  fill: aliceblue;
+}
+
+.card-bs{
+  margin-top: 6px;
+  margin-bottom: 6px;
+  display: flex;
+  justify-content: space-between;
+}
+.card-image:hover{
+  opacity: 1;
+}
+.sort-b{
+  position: fixed;
+  top:0;
+  left:0
+}
+.spinner{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+.spinner-icon{
+  width: 30vh;
+  height: 30vh;
+}
