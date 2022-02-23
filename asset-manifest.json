@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/alfa-bank/static/css/main.f24573ba.css",
-    "main.js": "/alfa-bank/static/js/main.1d50eede.js",
+    "main.js": "/alfa-bank/static/js/main.b903f07e.js",
     "index.html": "/alfa-bank/index.html",
     "main.f24573ba.css.map": "/alfa-bank/static/css/main.f24573ba.css.map",
-    "main.1d50eede.js.map": "/alfa-bank/static/js/main.1d50eede.js.map"
+    "main.b903f07e.js.map": "/alfa-bank/static/js/main.b903f07e.js.map"
   },
   "entrypoints": [
     "static/css/main.f24573ba.css",
-    "static/js/main.1d50eede.js"
+    "static/js/main.b903f07e.js"
   ]
 }
